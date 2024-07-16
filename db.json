@@ -1,0 +1,82 @@
+{
+  "books": [
+    {
+      "id": "0",
+      "title": "Y a ti que te pasa? ",
+      "capa": "https://i.imgur.com/f5hU6wA.png",
+      "link": "https://drive.google.com/file/d/1YU3fyhGN4aJCstMpSbKmODt1zX9JTY4u/view?usp=sharing",
+      "category": "Novela"
+    },
+    {
+      "id": "1",
+      "title": "el camino",
+      "capa": "https://i.imgur.com/SWinkxc.png",
+      "link": "https://drive.google.com/file/d/1kBIj8hql7oVo46u9_HGN_cqGW6kSJSv5/view?usp=sharing",
+      "category": "Reflexion"
+    },
+    {
+      "id": "2",
+      "title": "el niño filosofo ",
+      "capa": "https://i.imgur.com/3WRaReN.png",
+      "link": "https://drive.google.com/file/d/1dkdKJwupkM-246WinvvMCdLHybJuPp4H/view?usp=sharing",
+      "category": "Motivacion"
+    },
+    {
+      "id": "3",
+      "title": "el poder de las palabras",
+      "capa": "https://i.imgur.com/NY1FuI8.png",
+      "link": "https://drive.google.com/file/d/1qovmfU3PfWr_zBG0ry1HhHDmL2IwOQBh/view?usp=sharing",
+      "category": "Motivacion"
+    },
+    {
+      "id": "4",
+      "title": "filosofia Japonesa",
+      "capa": "https://i.imgur.com/RvDlxmk.png",
+      "link": "https://drive.google.com/file/d/1QV5dgZAfLpbBECpSm6wZnu-iMwG2VtjV/view?usp=sharing",
+      "category": "Novela"
+    },
+    {
+      "id": "5",
+      "title": "hacer que te pasen cosas buenas",
+      "capa": "https://i.imgur.com/z9kp04T.png",
+      "link": "https://drive.google.com/file/d/1WCz_4TU3qjubfyN34fJqT63QDkZvWo8l/view?usp=sharing",
+      "category": "Motivacion"
+    },
+    {
+      "id": "6",
+      "title": "La Maravilla  ",
+      "capa": "https://i.imgur.com/W358jGx.png",
+      "link": "https://drive.google.com/file/d/1KqE1OqioFlWEZ4iQVJW027cP6vCArP-N/view?usp=sharing",
+      "category": "Motivacion"
+    },
+    {
+      "id": "7",
+      "title": "El diablo en los numeros",
+      "capa": "https://i.imgur.com/pwLKeH1.png",
+      "link": "https://drive.google.com/file/d/1o2vh15v2lCs5EZblxua140umxxKKVe25/view?usp=sharing",
+      "category": "Reflexion"
+    },
+    {
+      "id": "8",
+      "title": "las 4 Disciplinas",
+      "capa": "https://i.imgur.com/aGUVioc.png",
+      "link": "https://drive.google.com/file/d/1Ww_xEfcR5wtzi9tV-3BULC1Kln1H4_te/view?usp=sharing",
+      "category": "Autoayuda"
+    },
+    {
+      "id": "9",
+      "title": "Encuentra tu persona vitamina",
+      "capa": "https://i.imgur.com/FcPzyzt.png",
+      "link": "https://drive.google.com/file/d/1fS8IGi5y0ayGVBBq2C3huF0N6Y29Q_j7/view?usp=sharing",
+      "category": "Motivacion",
+      "description": ""
+    },
+    {
+      "id": "4262",
+      "title": "Tormenta Cerebral",
+      "capa": "https://i.imgur.com/rxWy4dx.png",
+      "link": "https://drive.google.com/file/d/10bphJdnN_QXU2coJY5AybH6A_wSiBGHm/view?usp=sharing",
+      "category": "Motivacion"
+    }
+  ]
+}
